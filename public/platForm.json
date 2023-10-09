@@ -1,0 +1,130 @@
+[
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "1",
+      "rating": 4.65,
+      "price_money":"$40 M",
+      "total_view": "488.M",
+      "title": "Counter Strike",
+      "author": {
+        "name": "Jimmy Dane",
+        "published_date": "2022-08-24 17:27:34"
+       
+      },
+      "img": "https://i.ibb.co/Gdg1zyN/counter-strike-banner.png",
+      "thumbnail_url": "https://i.ibb.co/B44C37K/counter-strike-logo.jpg",
+     
+      "details": "Counter-Strike is a series of multiplayer tactical first-person shooter video games in which teams of terrorists battle to perpetrate an act of terror while counter-terrorists try to prevent it. The series began on Windows in 1999 with the release of the first game, Counter-Strike."
+    },
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "3",
+      "rating": 4.60,
+      "price_money":"$40.20 M",
+      "total_view": "500.M",
+      "title": "Call of Duty",
+      "author": {
+        "name": "Colin Marsh",
+        "published_date": "2022-08-24 17:27:34"
+       
+      },
+      "img": "https://i.ibb.co/zHTCzTm/call-of-deutty-banner.webp",
+      "thumbnail_url": "https://i.ibb.co/HtQHh6w/call-of-deuty-icon.jpg",
+     
+      "details": "Call of Duty is a video game series and media franchise published by Activision, starting in 2003. The games were first developed by Infinity Ward, then by Treyarch and Sledgehammer Games. Several spin-off and handheld games were made by other developers. "
+    },
+
+    {
+      "_id": "f69a695f037cd9484cecaea37ca71011",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "1",
+      "rating": 4.80,
+      "price_money":"$30.80 M",
+      "total_view": "400.M",
+      "title": "PUBG",
+      "author": {
+        "name": "Jennifer Wood",
+        "published_date": "2022-08-30 16:38:45"
+       
+      },
+      "img": "https://i.ibb.co/YcLtRgn/pubg-card-banner.jpg",
+      "thumbnail_url": "https://i.ibb.co/12FqVgz/pubg-Icon.webp",
+      
+      "details": "PUBG Corporation is an online game developer based in Seoul, South Korea. It is the company behind PlayerUnknown's Battlegrounds (PUBG), a multiplayer online battle royale game. The company is a subsidiary of Korean publisher Bluehole."
+    },
+    {
+      "_id": "f69a695f037cd9484cecaea37ca71012",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "2",
+      "rating":5.00,
+      "price_money":"$68.75 M",
+      "total_view": "750.M",
+      "title": "Dota 2",
+      "author": {
+        "name": "Jennifer Wood",
+        "published_date": "2022-08-30 16:38:45"
+       
+      },
+      "img": "https://i.ibb.co/wBpMsxt/dota-2-card-banner.jpg",
+      "thumbnail_url": "https://i.ibb.co/Pr3fKSS/dota-2-icon.png",
+      
+      "details": "Dota 2 is a 2013 multiplayer online battle arena video game by Valve. The game is a sequel to Defense of the Ancients, a community-created mod for Blizzard Entertainment's Warcraft III: Reign of Chaos."
+    },
+
+    {
+      "_id": "11468ed61aee84de492a8b04158a22f9",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": false
+      },
+      "category_id": "3",
+      "rating": 4.00,
+      "price_money":"$30.90 M",
+      "total_view": "250.M",
+      "title": "Free Fire",
+      "author": {
+        "name": "system",
+        "published_date": "2022-08-24 23:15:00"
+       
+      },
+      "img": "https://i.ibb.co/n0LHfd7/ff-card-abnner.jpg",
+      "thumbnail_url": "https://i.ibb.co/zRkyGJ5/ff-icon.jpg",
+      
+      "details": "Free Fire is a free to play battle royale game developed and published by Garena for Android and iOS. It was released on 8 December 2017. It became the most downloaded mobile game globally in 2019 and has over 1 billion downloads on Google Play store."
+    },
+    {
+      "_id": "11468ed61aee84de492a8b04158a22f0",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": false
+      },
+      "category_id": "1",
+      "rating": 4.50,
+      "price_money":"$55.67 M",
+      "total_view": "600.M",
+      "title": "Rocket League",
+      "author": {
+        "name": "Robert jr",
+        "published_date": "2022-08-24 23:15:00"
+       
+      },
+      "img": "https://i.ibb.co/dg4sbWT/rocket-leuge-banner.webp",
+      "thumbnail_url": "https://i.ibb.co/jHnySSZ/rocket-leage-logo.png",
+     
+      "details": "Rocket League is a vehicular soccer video game developed and published by Psyonix. The game was first released for PlayStation 4 and Windows in July 2015, with ports for Xbox One and Nintendo Switch being released later on."
+    }
+  ]
